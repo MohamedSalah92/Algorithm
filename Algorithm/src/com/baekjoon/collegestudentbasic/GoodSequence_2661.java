@@ -30,7 +30,7 @@ public class GoodSequence_2661 {
 			}
 		}
 	}
-
+ 
 	static boolean checkString(String s) {
 		int len = s.length();
 		int half = len / 2;
